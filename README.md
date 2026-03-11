@@ -59,3 +59,40 @@ A pixel-close HTML/CSS recreation of the [Cursor.com](https://cursor.com) landin
 - Navbar uses `position: fixed` with `left: 50%; transform: translateX(-50%)` for centering
 - Logo images use `filter: brightness(0) invert(1)` to render all logos in white
 - Feature sections alternate image-left / image-right layout using class naming: `second`, `third`, `forth`, `fifth`
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="projectimage/first.png" width="700"/><br>
+  <em>It contain the navbar and download</em>
+</p><br><hr>
+
+<p align="center">
+  <img src="projectimage/second.png" width="700"/><br>
+  <em>Feature</em>
+</p><br><hr>
+
+<p align="center">
+  <img src="projectimage/third.png" width="700"/><br>
+</p><br><hr>
+<p align="center">
+  <img src="projectimage/forth.png" width="700"/><br>
+</p><br><hr>
+<p align="center">
+  <img src="projectimage/fifth.png" width="700"/><br>
+</p><br><hr>
+<p align="center">
+  <img src="projectimage/sixth.png" width="700"/><br>
+</p><br><hr>
+<p align="center">
+  <img src="projectimage/seven.png" width="700"/><br>
+</p><br><hr>
+<p align="center">
+  <img src="projectimage/eight.png" width="700"/><br>
+</p><br><hr>
+<p align="center">
+  <img src="projectimage/nine.png" width="700"/><br>
+</p><br><hr>
+<p align="center">
+  <img src="projectimage/ten.png" width="700"/><br>
+</p><br><hr>
