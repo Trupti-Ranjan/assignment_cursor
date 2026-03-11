@@ -1,6 +1,7 @@
 # Cursor.com — Frontend Recreations
 
 A pixel-close HTML/CSS recreation of the [Cursor.com](https://cursor.com) landing page, built from scratch using vanilla HTML and CSS.
+And here is the link to check the ui [Live](https://assignment-cursor.vercel.app/)
 
 ---
 
